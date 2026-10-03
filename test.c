@@ -3,5 +3,6 @@
 
 int main()
 {
+int a;
 printf("Test\n");
 }
